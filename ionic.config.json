@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-web3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
