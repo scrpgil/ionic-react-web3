@@ -1,0 +1,12 @@
+.nft-image {
+  text-align: center;
+}
+
+.nft-image img {
+  max-height: 200px;
+}
+
+.nft-background,
+.nft-detail {
+  text-align: center;
+}
